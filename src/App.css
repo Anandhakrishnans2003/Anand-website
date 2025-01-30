@@ -215,7 +215,7 @@ body {
 .navbar {
   position: fixed;
   bottom: 20px;
-  left: 30%;
+  left: 28%;
   transform: translateX(-50%);
   background-color: rgba(44, 62, 80, 0.9);
   color: #fff;
