@@ -77,8 +77,8 @@ body {
   border-radius: 8px;
   object-fit: cover;
   display: inline-block;
-  vertical-align: middle;
-  margin: 0 10px;
+  vertical-align: text-top;
+  margin: 0 5px;
   cursor: pointer;
   transition: transform 0.3s ease;
 }
